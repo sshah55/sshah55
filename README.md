@@ -63,14 +63,10 @@
 >
 > ## 📊 GitHub Stats
 >
-> <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sshah55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshah55&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-    </p>
+![sshah55's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sshah55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sshah55&layout=compact&theme=tokyonight&hide_border=true)
 
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshah55&theme=tokyonight&hide_border=true"/>
-      </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sshah55&theme=tokyonight&hide_border=true)
 
       ---
 
