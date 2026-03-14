@@ -1,10 +1,10 @@
-# Hi, I'm Samay Shah 👋
+# Samay Shah
 
-### Aerospace Engineering Student · Cal Poly San Luis Obispo
-> Building simulations and algorithms at the intersection of physics, numerical methods, and code.
+### Aerospace Engineering · Los Angeles
+> Aerospace-related algorithms, simulations, and machine learning
 
 🔬 Passionate about CFD, propulsion systems, and robotics
-📍 San Luis Obispo, CA
+📍 Los Angeles, California
 📄 [Resume](#) · 💼 [LinkedIn](#) · 📧 samayshah5@gmail.com
 
 ---
